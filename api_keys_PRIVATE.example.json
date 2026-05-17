@@ -1,0 +1,42 @@
+{
+  "OKX": {
+    "api_key": "",
+    "secret_key": "",
+    "passphrase": ""
+  },
+  "MEXC": {
+    "access_key": "",
+    "secret_key": ""
+  },
+  "GateIO": {
+    "api_key": "",
+    "secret_key": "",
+    "access_key": ""
+  },
+  "Bybit": {
+    "api_key": "",
+    "secret_key": ""
+  },
+  "Bitget": {
+    "api_key": "",
+    "secret_key": "",
+    "passphrase": ""
+  },
+  "KuCoin": {
+    "api_key": "",
+    "secret_key": "",
+    "passphrase": ""
+  },
+  "Kraken Pro": {
+    "api_key": "",
+    "secret_key": ""
+  },
+  "Binance.US": {
+    "api_key": "",
+    "secret_key": ""
+  },
+  "LBank": {
+    "api_key": "",
+    "secret_key": ""
+  }
+}
